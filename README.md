@@ -252,9 +252,3 @@ Run the `yarn verify --network your_network` command to verify your contracts on
 👀 You may see an address for both YouToken and Vendor. You will want the Vendor address.
 
 👉 Search this address on Etherscan to get the URL you submit to 🏃‍♀️[SpeedRunEthereum.com](https://speedrunethereum.com).
-
----
-
-> 🏃 Head to your next challenge [here](https://speedrunethereum.com).
-
-> 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
